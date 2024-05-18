@@ -1,6 +1,7 @@
 ## ELO ESY10I1B (ESY10I1-2UWB) Android Tablet (Revision B)
 
-# May 18 2024: WORK IN PROGRESS. I am writing this as I do these things. This is as far as I have gone and just stopped to write this out. 
+# May 18 2024: 
+WORK IN PROGRESS. I am writing this as I do these things. This is as far as I have gone and just stopped to write this out. 
 
 Resuming this project I started a few years back. These ELO tablets (tablet?) are relly cheap. A company I work for pulled their 10" units because they didn't like the size.
 There are 2 main revisions to these. Rev A and Rev B. The main differences (that I care about) is Rev A does have a micro USB port for adb/fastboot/etc while Rev B does not.
