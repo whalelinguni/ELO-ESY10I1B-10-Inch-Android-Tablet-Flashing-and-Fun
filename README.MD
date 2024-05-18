@@ -15,7 +15,7 @@ I flashed a patched boot.img from build 3.46.50 on to 3.28.31. I wanted to refra
 This ended up breaking the wifi (I haven't gone any further yet, I am typing this as I work). Mac address for wifi is corrupt or invalid after flashing. Assuming this
 is due to version mismatching etc. And I would imagine it would be fixed once I flash build 3.46.50. 
 
-## Tablet(Is it a tablet?) used for this:
+## Test Tablet Informations:
 # ELO ESY10I1-2UWB
 - Android 7.1.2
 - Kernel 3.18.31
