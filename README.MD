@@ -2,6 +2,8 @@
 
 # May 18 2024 Pt2:
 Small update. Starting the process to flash build 3.46.50 to see if it fixes the wifi. And/or I may try to make a nandroid backup incase something on newer builds is locked. 
+Magisk did seem to patch the boot.img just fine. However I need an internet connection to finish updating Magisk. Since the wifi is now dead, this would require me to stand up
+and physcially find and plug in a network cable. And I am lazy. 
 # May 18 2024: 
 WORK IN PROGRESS. I am writing this as I do these things. This is as far as I have gone and just stopped to write this out. 
 
