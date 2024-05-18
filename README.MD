@@ -35,6 +35,6 @@ is due to version mismatching etc. And I would imagine it would be fixed once I 
 ## Misk Notes:
 - OEM Unlocking appeared and I was able to enable after flashing the magisk patched boot.img
 - 128gb microSD was unable to be read. Used a 32gb Sandisk Ultra Plus without issues.
-- I do not know how to exit 
+- I do not know how to exit the "Please wait" "Excuse us for a moment" whatever loading screen that plays indefinitely when not connected to an ELO View server. A keyboard would probably be useful. 
 - The ESY10 Rev A does have a microSD port under one of the covers which ADB/Fastboot does work on all the time.
 - Unable to find any jtag, spi, etc pins on the board. Quite possible I was just unable to identify though.
