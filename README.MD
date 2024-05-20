@@ -1,5 +1,10 @@
 ## ELO ESY10I1B (ESY10I1-2UWB) Android Tablet (Revision B)
 
+# May 19 2024 Pt3:
+I unpacked the system-new.dat file from the 3.46.50 rom, unpacked to a .img file. Flashed the system over fastboot with that system image, and now wifi is working again. For some reason
+trying to flash the official way but installing from a zip in the boot menu would not work for me. even after flashing the stock boot.img back. 
+Right now I have 3.46.50 running with magisk patched boot and full root. 
+
 # May 18 2024 Pt2:
 Small update. Starting the process to flash build 3.46.50 to see if it fixes the wifi. And/or I may try to make a nandroid backup incase something on newer builds is locked. 
 Magisk did seem to patch the boot.img just fine. However I need an internet connection to finish updating Magisk. Since the wifi is now dead, this would require me to stand up
